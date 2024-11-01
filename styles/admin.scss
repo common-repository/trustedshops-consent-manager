@@ -1,0 +1,36 @@
+#ts_consent_manager {
+  h1 {
+    margin-bottom: 20px;
+  }
+  /** Settings Page for the Plugin **/
+  .ts_consent_settings_table > tbody,
+  .ts_consent_settings_table {
+    tr {
+      text-align: left;
+
+      td {
+        padding-right: 15px;
+      }
+
+      th {
+        padding-right: 10px;
+      }
+    }
+  }
+
+  #rss-feeds {
+    padding: 3px 10px 3px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: #f9fdff;
+
+    ul {
+      list-style: circle !important;
+      padding-left: 14px;
+    }
+  }
+}
+
+#uc-btn-close-x-corner-modal, #uc-lang-dropdown-toggle {
+  background-color: transparent;
+}

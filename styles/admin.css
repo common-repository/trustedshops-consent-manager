@@ -1,0 +1,34 @@
+#ts_consent_manager {
+  /** Settings Page for the Plugin **/
+}
+#ts_consent_manager h1 {
+  margin-bottom: 20px;
+}
+#ts_consent_manager .ts_consent_settings_table > tbody tr,
+#ts_consent_manager .ts_consent_settings_table tr {
+  text-align: left;
+}
+#ts_consent_manager .ts_consent_settings_table > tbody tr td,
+#ts_consent_manager .ts_consent_settings_table tr td {
+  padding-right: 15px;
+}
+#ts_consent_manager .ts_consent_settings_table > tbody tr th,
+#ts_consent_manager .ts_consent_settings_table tr th {
+  padding-right: 10px;
+}
+#ts_consent_manager #rss-feeds {
+  padding: 3px 10px 3px 10px;
+  border-radius: 5px;
+  display: inline-block;
+  background-color: #f9fdff;
+}
+#ts_consent_manager #rss-feeds ul {
+  list-style: circle !important;
+  padding-left: 14px;
+}
+
+#uc-btn-close-x-corner-modal, #uc-lang-dropdown-toggle {
+  background-color: transparent;
+}
+
+/*# sourceMappingURL=admin.css.map */

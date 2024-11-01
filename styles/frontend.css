@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/**
+Bugfix für Consent Dialog / Override von WordPress
+ */
+button#uc-btn-close-x-corner-modal,
+button#uc-lang-dropdown-toggle {
+  background-color: transparent;
+}
+
+/*# sourceMappingURL=frontend.css.map */
